@@ -1,9 +1,9 @@
 const router = require('express').Router();
-const { notes } = require('../../db/db.json');
+const { notes } = require('../../db/db');
+const path = require('path');
 
 router.get('/notes', (req, res) => {
-    res.send('Hello');
-    console.log(notes);
+    res.json(notes);
 });
 
 module.exports = router;
