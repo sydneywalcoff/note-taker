@@ -1,8 +1,16 @@
 {
   "notes": [
     {
-      "title": "A note!",
-      "body": "Details!",
+      "title": "Note taker app",
+      "id": "0"
+    },
+    {
+      "title": "Weeds",
+      "id": "1"
+    },
+    {
+      "title": "A new note!",
+      "text": "Details!",
       "id": "2"
     }
   ]
