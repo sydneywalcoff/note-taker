@@ -15,8 +15,9 @@ router.post('/notes', (req, res) => {
 });
 
 router.delete('/notes/:id', (req, res) => {
+    let id = req.params.id;
     // res.send('Delete request to the homepage')
-    console.log('You are deleting something');
+    console.log('You are deleting something at id: ', id);
 });
 
 module.exports = router;
