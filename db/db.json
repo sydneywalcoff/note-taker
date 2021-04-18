@@ -1,35 +1,3 @@
 {
-  "notes": [
-    {
-      "title": "Note taker app",
-      "id": "0"
-    },
-    {
-      "title": "Weeds",
-      "id": "1"
-    },
-    {
-      "title": "A new note!",
-      "text": "Details!",
-      "id": "2"
-    },
-    {
-      "title": "Test note",
-      "id": "3"
-    },
-    {
-      "title": "Sample",
-      "id": "4"
-    },
-    {
-      "title": "Did it work?",
-      "text": "??????",
-      "id": "5"
-    },
-    {
-      "title": "A new new note",
-      "text": "new new note details",
-      "id": "6"
-    }
-  ]
+  "notes": []
 }
